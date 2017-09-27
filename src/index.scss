@@ -1,2 +1,28 @@
 // global styles go in here. 
 // When you start writing styles for your individual components you'll have to start importing them
+@import "colors";
+
+
+.items {
+  background-color: $orange
+}
+
+.listBox {
+  margin: 0px auto;
+  padding: 0px auto;
+  border: 1px solid black;
+  outline-color: $brown; 
+  outline-style: solid;
+  width: 30%
+
+}
+
+* {
+  margin: 1px;
+  padding: 1px;
+  p {
+    text-align: center
+  }
+  
+}
+

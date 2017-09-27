@@ -1,0 +1,16 @@
+.items {
+  background-color: #FF7F00; }
+
+.listBox {
+  margin: 0px auto;
+  padding: 0px auto;
+  border: 1px solid black;
+  outline-color: #964B00;
+  outline-style: solid;
+  width: 30%; }
+
+* {
+  margin: 1px;
+  padding: 1px; }
+  * p {
+    text-align: center; }
